@@ -6,6 +6,12 @@
 - Doing this allows future developers to better understand the code and track the order flow
 - I used outside resources as a guide for using new HTML elements that I had not incorperated before
 
-## This is a screenshot of the website after the HTML and CSS updated
+## This is a screenshot of the website with the HTML and CSS updated
 
-![Website Screenshot] (assets/images/finished-screenshot.jpg)
+![Website-Screenshot](./assets/images/finished-screenshot.jpg)
+
+[Git-Pages-Link]()
+
+
+
+
