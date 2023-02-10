@@ -8,7 +8,7 @@
 
 ## This is a screenshot of the website with the HTML and CSS updated
 
-![Website-Screenshot](./assets/images/finished-screenshot.jpg)
+![Website-Screenshot](./assets/images/finished-screenshot.JPG)
 
 [Git-Pages-Link](https://nolenhowe.github.io/refactor-challenge/)
 
