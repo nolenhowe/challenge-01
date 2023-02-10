@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Adds styling to the header element */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +52,8 @@ p {
     font-size: 16px;
 }
 
+/* Adds style to the figure elemtn with marketing meeting img */
+
 .hero {
     height: 800px;
     width: 100%;
@@ -65,6 +69,8 @@ p {
     float: right;
     margin-left: 25px;
 }
+
+/* Adds style to the content section element */
 
 .content {
     width: 75%;
@@ -128,6 +134,8 @@ p {
     font-size: 36px;
 }
 
+/* Adds style to the benefits section element */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -186,6 +194,8 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
+
+/* Adds style to the footer element */
 
 .footer {
     padding: 30px;
